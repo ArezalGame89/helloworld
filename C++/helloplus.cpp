@@ -4,6 +4,9 @@
 #include<iostream>
 
 using namespace std;
+/*
+(if E then E)
+*/
 
 // main function -
 // where the execution of program begins
