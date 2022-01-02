@@ -3,7 +3,6 @@
 // Header file for input output functions
 #include<iostream>
 
-using namespace std;
 /*
 (if E then E)
 */
@@ -13,7 +12,7 @@ using namespace std;
 int main()
 {
 	// prints hello world
-	cout<<"Hello World";
+	std::cout<<"Hello World";
 	
 	return 0;
 }
