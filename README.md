@@ -1,5 +1,5 @@
-# Hello World Big MASH Update!
-a Lot of updates! added ***11*** new platforms to run Hello World on!
+# HW Relese v1.0
+A first confirmed release, 
 
 # Hello World Repo
 This is the repo where i plan to collect and code Hello World in many possible platforms as possible in only *one* repository
